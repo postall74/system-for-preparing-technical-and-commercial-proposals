@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Tcp.Api/Tcp.Api.csproj" />
+    <Project Path="src/Tcp.Core/Tcp.Core.csproj" />
+    <Project Path="src/Tcp.Infrastructure/Tcp.Infrastructure.csproj" />
+    <Project Path="src/Tcp.Shared/Tcp.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Tcp.Tests/Tcp.Tests.csproj" />
+  </Folder>
+</Solution>
