@@ -1,0 +1,28 @@
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\appsettings.Development.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\appsettings.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\System for preparing TaCP.staticwebassets.endpoints.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\System for preparing TaCP.exe
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\System for preparing TaCP.deps.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\System for preparing TaCP.runtimeconfig.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\System for preparing TaCP.dll
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\bin\Debug\net10.0\System for preparing TaCP.pdb
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\rpswa.dswa.cache.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.GeneratedMSBuildEditorConfig.editorconfig
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.AssemblyInfoInputs.cache
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.AssemblyInfo.cs
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.csproj.CoreCompileInputs.cache
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.MvcApplicationPartsAssemblyInfo.cache
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\rjimswa.dswa.cache.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\scopedcss\bundle\System for preparing TaCP.styles.css
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\staticwebassets.build.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\staticwebassets.build.json.cache
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\staticwebassets.development.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\swae.build.ex.cache
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.dll
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\refint\System for preparing TaCP.dll
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.pdb
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\System for preparing TaCP.genruntimeconfig.cache
+f:\system for preparing technical and commercial proposals\System for preparing TaCP\obj\Debug\net10.0\ref\System for preparing TaCP.dll
